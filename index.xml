@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<employeetable>
+<employee>
+<id> 10234 </id>
+<name> salman </name>
+<salary> 5000 </salary>
+<joiningdate> 2.2.2015 </joiningdate>
+<position> manager </position>
+</employee>
+
+<employee>
+<id> 10235 </id>
+<name> ibrahim </name>
+<salary> 200000 </salary>
+<joiningdate> 3.5.1990 </joiningdate>
+<position> CEO </position>
+</employee>
+
+<employee>
+<id> 10236 </id>
+<name> asim </name>
+<salary> 50000 </salary>
+<joiningdate> 2.2.2016 </joiningdate>
+<position> manager </position>
+</employee>
+</employeetable>
